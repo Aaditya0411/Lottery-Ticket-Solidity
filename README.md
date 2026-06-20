@@ -31,5 +31,3 @@ This project allows users to participate in a lottery by sending **1 ETH** to th
 
 
 
-**Adityagiri Himeshkumar Goswami**
-Blockchain & Smart Contract Development Enthusiast
